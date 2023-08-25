@@ -1,9 +1,9 @@
 const cacheName = "reun-Balls'n'Rows-1.2";
 const contentToCache = [
     "Build/MatchDotsPWA.loader.js",
-    "Build/MatchDotsPWA.framework.js",
-    "Build/MatchDotsPWA.data",
-    "Build/MatchDotsPWA.wasm",
+    "Build/MatchDotsPWA.framework.js.gz",
+    "Build/MatchDotsPWA.data.gz",
+    "Build/MatchDotsPWA.wasm.gz",
     "TemplateData/style.css"
 
 ];

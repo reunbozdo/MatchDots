@@ -1,9 +1,9 @@
-const cacheName = "reun-Balls'n'Rows-0.2.4";
+const cacheName = "reun-Balls'n'Rows-0.2.5";
 const contentToCache = [
-    "Build/MatchDots024Uncompressed.loader.js",
-    "Build/MatchDots024Uncompressed.framework.js",
-    "Build/MatchDots024Uncompressed.data",
-    "Build/MatchDots024Uncompressed.wasm",
+    "Build/MatchDots025Brotli.loader.js",
+    "Build/MatchDots025Brotli.framework.js.unityweb",
+    "Build/MatchDots025Brotli.data.unityweb",
+    "Build/MatchDots025Brotli.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
